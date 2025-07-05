@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-👉 [https://mern-thinkboard-gb56.onrender.com](https://mern-thinkboard-gb56.onrender.com)
+👉 [https://mern-thinkboard-gb56.onrender.com]
 
 ---
 
